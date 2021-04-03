@@ -5,7 +5,7 @@ This project will develop algorithms to process the reflected acoustic signals a
 
 ## Achievement
 The code in this repostory is capabile to track 1D motion in the range of 15cm and the error is less than 1cm. The whole application can run in real-time mode. A demo is as below.
-
+![demo](https://github.com/taleman1997/Gesture_detection_1D/blob/main/demo.gif)
 ## Android platform:
 This algorithm is now based on Android 8 or above.
 
